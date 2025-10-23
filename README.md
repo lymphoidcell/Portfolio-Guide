@@ -9,11 +9,12 @@
 
 ## About
 
-Welcome to my professional portfolio repository! This collection showcases my journey through data analytics, machine learning, and geospatial analysis. Each project demonstrates practical applications of data science, spatial analysis, and creative solutions to real-world challenges.
+Welcome to my professional portfolio repository! This collection showcases my journey through data analytics, machine learning, bioinformatics, and geospatial analysis. Each project demonstrates practical applications of data science, computational biology, spatial analysis, and creative solutions to real-world challenges.
 
 **What you'll find here:**
 - Data analytics projects with end-to-end pipelines
 - Machine learning models and implementations
+- Bioinformatics analysis and computational biology projects
 - SQL query optimization and database design
 - Interactive web applications and data visualizations
 - Geospatial analysis and mapping projects
@@ -30,6 +31,7 @@ Welcome to my professional portfolio repository! This collection showcases my jo
 Portfolio-Guide/
 ├── data-analytics/              # Data analysis projects
 ├── machine-learning/            # ML models and experiments
+├── bioinformatics/              # Bioinformatics projects and analysis
 ├── databases/                   # Database projects and SQL work
 ├── web-applications/            # Interactive web apps
 ├── python-projects/             # Python scripts and applications
@@ -61,9 +63,9 @@ Portfolio-Guide/
 ## Technologies & Tools
 
 **Programming Languages:**
-- Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, GeoPandas, Folium)
+- Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, GeoPandas, Folium, Biopython)
 - SQL (PostgreSQL, MySQL, BigQuery)
-- R (ggplot2, dplyr, Tidyverse)
+- R (ggplot2, dplyr, Tidyverse, Bioconductor)
 - JavaScript / TypeScript
 - Python for Blender (bpy)
 
@@ -80,6 +82,7 @@ Portfolio-Guide/
 - Docker
 - VS Code
 - PyCharm
+- Linux/Unix command line
 
 **Cloud Platforms:**
 - AWS SageMaker
@@ -96,6 +99,14 @@ Portfolio-Guide/
 - Blender (Point Cloud Processing)
 - Open3D
 
+**Bioinformatics:**
+- Biopython
+- Bioconductor
+- Nextflow (Workflow management)
+- Linux/Unix scripting
+- Sequence analysis tools
+- Genomic data processing
+
 ---
 
 ## Skills Demonstrated
@@ -103,6 +114,7 @@ Portfolio-Guide/
 **Core Competencies:**
 - **Data Analysis:** Exploratory data analysis, statistical modeling, hypothesis testing
 - **Machine Learning:** Predictive modeling, classification, clustering, neural networks
+- **Bioinformatics:** Sequence analysis, genomic data processing, computational biology
 - **Geospatial Analysis:** Spatial data processing, mapping, geographic visualization
 - **3D Visualization:** Point cloud processing, 3D modeling, Blender scripting
 - **Business Intelligence:** Dashboard creation, KPI tracking, reporting
