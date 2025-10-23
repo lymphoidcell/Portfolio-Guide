@@ -94,8 +94,8 @@ Portfolio-Guide/
 **Programming Languages:**
 - Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch)
 - SQL (PostgreSQL, MySQL, BigQuery)
-- R (ggplot2, dplyr)
-- JavaScript / TypeScript
+- R (ggplot2, dplyr, Tidyverse)
+- TypeScript
 
 **Data Visualization:**
 - Tableau / Power BI
@@ -104,18 +104,19 @@ Portfolio-Guide/
 
 **Development Tools:**
 - Git & GitHub
-- Jupyter Notebooks
+- Jupyter Notebooks (Local, Deepnote, etc)
 - Docker
 - VS Code
+- PyCharm
 
 **Cloud Platforms:**
-- AWS (S3, RDS, Lambda, SageMaker)
+- AWS (SageMaker)
 - Google Cloud Platform
-- Azure
+- Azure Database (MySQL)
 
 **Web Development:**
-- React / Next.js
-- Flask / FastAPI
+- Next.js
+- FastAPI
 - Node.js / Express
 
 ---
