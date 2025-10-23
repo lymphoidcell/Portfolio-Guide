@@ -37,6 +37,7 @@ Portfolio-Guide/
 ├── python-projects/             # Python scripts and applications
 ├── 3d-visualization/            # Point cloud and 3D data
 ├── case-studies/                # Business case studies
+├── collaborations/              # Joint projects with friends and peers
 ├── tools-and-utilities/         # Helper scripts and tools
 ├── documentation/               # Technical documentation
 └── challenges/                  # Coding challenges and exercises
@@ -79,6 +80,7 @@ Portfolio-Guide/
 **Development Tools:**
 - Git & GitHub
 - Jupyter Notebooks (Local, Deepnote, etc)
+- Databricks
 - Docker
 - VS Code
 - PyCharm
@@ -86,8 +88,7 @@ Portfolio-Guide/
 
 **Cloud Platforms:**
 - AWS SageMaker
-- Google Cloud Platforms
-- Azure Database
+- Google Cloud Platform
 
 **Web Development:**
 - MERN Stack (MongoDB, Express, React, Node.js)
