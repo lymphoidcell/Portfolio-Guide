@@ -9,13 +9,16 @@
 
 ## About
 
-Welcome to my professional portfolio repository! This collection showcases my journey through data analytics, machine learning, and full-stack development. Each project demonstrates practical applications of data science, engineering principles, and creative solutions to real-world challenges.
+Welcome to my professional portfolio repository! This collection showcases my journey through data analytics, machine learning, and geospatial analysis. Each project demonstrates practical applications of data science, spatial analysis, and creative solutions to real-world challenges.
 
 **What you'll find here:**
 - Data analytics projects with end-to-end pipelines
 - Machine learning models and implementations
 - SQL query optimization and database design
-- Full-stack applications and data visualizations
+- Interactive web applications and data visualizations
+- Geospatial analysis and mapping projects
+- Point cloud processing and 3D visualizations with Blender
+- Interactive Streamlit applications
 - Case studies with business insights
 - Technical documentation and methodologies
 
@@ -26,49 +29,15 @@ Welcome to my professional portfolio repository! This collection showcases my jo
 ```
 Portfolio-Guide/
 ├── data-analytics/              # Data analysis projects
-│   ├── exploratory-analysis/
-│   ├── dashboards/
-│   └── visualizations/
-│
 ├── machine-learning/            # ML models and experiments
-│   ├── supervised-learning/
-│   ├── unsupervised-learning/
-│   └── deep-learning/
-│
 ├── databases/                   # Database projects and SQL work
-│   ├── schema-design/
-│   ├── query-optimization/
-│   └── etl-pipelines/
-│
-├── full-stack-projects/         # Full-stack applications
-│   ├── web-apps/
-│   ├── apis/
-│   └── data-platforms/
-│
+├── web-applications/            # Interactive web apps
 ├── python-projects/             # Python scripts and applications
-│   ├── data-processing/
-│   ├── automation/
-│   └── analysis-tools/
-│
+├── 3d-visualization/            # Point cloud and 3D data
 ├── case-studies/                # Business case studies
-│   ├── market-analysis/
-│   ├── customer-insights/
-│   └── performance-metrics/
-│
 ├── tools-and-utilities/         # Helper scripts and tools
-│   ├── data-cleaners/
-│   ├── api-integrations/
-│   └── templates/
-│
 ├── documentation/               # Technical documentation
-│   ├── methodologies/
-│   ├── best-practices/
-│   └── tutorials/
-│
 └── challenges/                  # Coding challenges and exercises
-    ├── sql-challenges/
-    ├── leetcode-solutions/
-    └── kaggle-competitions/
 ```
 
 ---
@@ -92,15 +61,18 @@ Portfolio-Guide/
 ## Technologies & Tools
 
 **Programming Languages:**
-- Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch)
+- Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, GeoPandas, Folium)
 - SQL (PostgreSQL, MySQL, BigQuery)
 - R (ggplot2, dplyr, Tidyverse)
-- TypeScript
+- JavaScript / TypeScript
+- Python for Blender (bpy)
 
 **Data Visualization:**
 - Tableau / Power BI
 - Matplotlib / Seaborn
 - Plotly / D3.js
+- Streamlit
+- Blender (Point Cloud Visualization)
 
 **Development Tools:**
 - Git & GitHub
@@ -110,26 +82,37 @@ Portfolio-Guide/
 - PyCharm
 
 **Cloud Platforms:**
-- AWS (SageMaker)
-- Google Cloud Platform
-- Azure Database (MySQL)
+- AWS SageMaker
 
 **Web Development:**
+- MERN Stack (MongoDB, Express, React, Node.js)
 - Next.js
-- FastAPI
-- Node.js / Express
+- Flask / FastAPI
+- Streamlit
+
+**Geospatial & 3D:**
+- GeoPandas / Shapely
+- Folium / Leaflet
+- Blender (Point Cloud Processing)
+- Open3D
 
 ---
 
 ## Skills Demonstrated
 
+**Core Competencies:**
 - **Data Analysis:** Exploratory data analysis, statistical modeling, hypothesis testing
 - **Machine Learning:** Predictive modeling, classification, clustering, neural networks
-- **Data Engineering:** ETL pipelines, data warehousing, workflow automation
-- **Full-Stack Development:** Web applications, RESTful APIs, database integration
+- **Geospatial Analysis:** Spatial data processing, mapping, geographic visualization
+- **3D Visualization:** Point cloud processing, 3D modeling, Blender scripting
 - **Business Intelligence:** Dashboard creation, KPI tracking, reporting
-- **Database Management:** Schema design, query optimization, indexing strategies
-- **Data Visualization:** Interactive dashboards, storytelling with data
+- **Data Visualization:** Interactive dashboards, storytelling with data, Streamlit apps
+
+**Additional Skills:**
+- Web application development with MERN stack, Next.js, Flask, and FastAPI
+- Database design and SQL query optimization
+- ETL pipelines and workflow automation
+- RESTful API development
 
 ---
 
@@ -159,7 +142,7 @@ ls -la
 
 **Phanie** - Full Stack Data and ML Enthusiast
 
-- Email: [phaniesql@gmail.com](phaniesql@gmail.com)
+- Email: [phaniesql@gmail.com](mailto:phaniesql@gmail.com)
 - LinkedIn: [linkedin.com/in/thscho](https://linkedin.com/in/thscho)
 
 ---
