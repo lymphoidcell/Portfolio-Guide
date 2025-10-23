@@ -86,6 +86,8 @@ Portfolio-Guide/
 
 **Cloud Platforms:**
 - AWS SageMaker
+- Google Cloud Platforms
+- Azure Database
 
 **Web Development:**
 - MERN Stack (MongoDB, Express, React, Node.js)
