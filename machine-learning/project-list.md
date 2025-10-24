@@ -12,14 +12,17 @@
 
 ### On-Going Projects
 
-| # | Project | Description | Tech Stack | Status | Link |
-|:-:|----------|--------------|-------------|---------|------|
-| 1 | TBA | TBA | TBA | In Progress | [TBA]() |
+| # | Date Started | Project | Description | Tech Stack | Status | Link |
+|:-:|--------------|---------|-------------|------------|--------|------|
+| 1 | 24/10/25 | Undisclosed | TBA | TBA | In Progress | [TBA]() |
+| 2 | 25/10/25 | Undisclosed | TBA | TBA | In Progress | [TBA]() |
+| 3 | 25/10/25 | Undisclosed | TBA | TBA | In Progress | [TBA]() |
+| 4 | 25/10/25 | Undisclosed | TBA | TBA | In Progress | [TBA]() |
 
 ---
 
 ### Complete Project List
 
-| # | Project | Description | Tech Stack | Status | Link |
+| # | Project | Description | Tech Stack | Date Completed | Link |
 |:-:|----------|--------------|-------------|---------|------|
-| 1 | TBA | TBA | TBA | Completed | [TBA]() |
+| 1 | TBA | TBA | TBA | TBA | [TBA]() |
