@@ -1,7 +1,7 @@
 # Portfolio Guide
 
 > A comprehensive showcase of data analytics, development projects, and technical case studies.  
-> Current status: _still on progress; and primary focus on machine learning projects!_
+> **Current status:** _still on progress; and primary focus on machine learning projects!_
 
 [![GitHub stars](https://img.shields.io/github/stars/lymphoidcell/Portfolio-Guide?style=social)](https://github.com/lymphoidcell/Portfolio-Guide/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/lymphoidcell/Portfolio-Guide?style=social)](https://github.com/lymphoidcell/Portfolio-Guide/network/members)
