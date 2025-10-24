@@ -55,7 +55,7 @@ Portfolio-Guide/
 
 ### Complete Project List
 
-| # | Project | Description | Category | Status |
+| # | Project | Description | Category | Date Completed |
 |---|---------|-------------|----------|--------|
 | TBA | TBA | TBA | TBA | TBA |
 
